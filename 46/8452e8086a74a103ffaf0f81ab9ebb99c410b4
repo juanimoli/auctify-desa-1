@@ -1,0 +1,240 @@
+backend/src/middleware/auth.ts
+  s_d220de8e30311e::t_0eb9dd76cebdc8 1-131
+mobile/src/api/types.ts
+  s_d220de8e30311e::t_00d9bf473575c1 1-225
+docs/01-architecture.md
+  s_d220de8e30311e::t_b5dabef08b2a6f 1-89
+docs/features/F05-bidding.md
+  s_d220de8e30311e::t_5b166e2b9de4ef 1-101
+docs/00-overview.md
+  s_d220de8e30311e::t_b750994a7fe064 1-171
+docs/features/F06-inclusion-requests.md
+  s_d220de8e30311e::t_6ba8e07b6ecff4 1-199
+docs/decisions/ADR-002-realtime-polling.md
+  s_d220de8e30311e::t_b440a9812fb39d 1-84
+backend/README.md
+  s_d220de8e30311e::t_558467a14c041f 1-125
+mobile/app/(tabs)/metrics.tsx
+  s_d220de8e30311e::t_7fac88b859e977 1-48
+docs/features/F07-sales-payments.md
+  s_d220de8e30311e::t_b8b9101f761b18 1-163
+mobile/src/theme/index.ts
+  s_d220de8e30311e::t_681aa35f83f94e 1-13
+backend/src/lib/jwt.ts
+  s_d220de8e30311e::t_41ee8fe2a0caa5 1-37
+mobile/assets/README.md
+  s_d220de8e30311e::t_fe6f3c546ae954 1-23
+mobile/app/(auth)/register.tsx
+  s_d220de8e30311e::t_4a28729f9bc8f8 1-368
+docs/features/F10-penalties.md
+  s_d220de8e30311e::t_3603edb4f52de4 1-133
+mobile/src/components/ErrorView.tsx
+  s_d220de8e30311e::t_bcb769c740ac30 1-32
+mobile/src/hooks/usePolling.ts
+  s_d220de8e30311e::t_68f833446ef4f4 1-114
+backend/src/modules/auth/auth.controller.ts
+  s_d220de8e30311e::t_e00792b91ad7e9 1-118
+docs/features/F00-setup.md
+  s_d220de8e30311e::t_5b9fd6e213e956 1-151
+backend/src/routes/index.ts
+  s_d220de8e30311e::t_8e5c26ccaffb11 1-131
+docs/decisions/ADR-004-auction-states.md
+  s_d220de8e30311e::t_05fd97c0e770c4 1-34
+mobile/src/auth/AuthContext.tsx
+  s_d220de8e30311e::t_313e4fc48bab80 1-185
+backend/.env.example
+  s_d220de8e30311e::t_d3d29dc777c32d 1-6
+backend/src/index.ts
+  s_d220de8e30311e::t_7bb72be3961332 1-35
+backend/vitest.config.ts
+  s_d220de8e30311e::t_faaa571ec0046c 1-19
+backend/src/middleware/validate.ts
+  s_d220de8e30311e::t_d89f10256c5e36 1-57
+docs/decisions/ADR-001-stack.md
+  s_d220de8e30311e::t_1197b2d0179ac6 1-39
+mobile/src/components/EmptyState.tsx
+  s_d220de8e30311e::t_eb3c09390cb5d8 1-23
+backend/tests/auth.test.ts
+  s_d220de8e30311e::t_d7db5b9e037635 1-313
+auctify-openapi.yaml
+  s_d220de8e30311e::t_8548ad0edba3b2 181-197
+  s_d220de8e30311e::t_053b051ab89718 689
+  s_d220de8e30311e::t_dc86a414ec3958 302
+  s_d220de8e30311e::t_38dc29e557e5f7 897
+  s_d220de8e30311e::t_67ca9a0f504d78 203
+  s_d220de8e30311e::t_181419de643d12 15-37
+  s_d220de8e30311e::t_425c50c91aa6f4 562
+  s_d220de8e30311e::t_3784a037dfd69b 865
+  s_d220de8e30311e::t_0f932ab22730e7 952
+  s_d220de8e30311e::t_f9155d0b2b1785 974
+  s_d220de8e30311e::t_aba2e788d4f894 470
+  s_d220de8e30311e::t_7d5c81a9ed4c00 544,547-549
+  s_d220de8e30311e::t_4c60628a69ffa8 912
+  s_d220de8e30311e::t_d0b11699ca377b 219
+  s_d220de8e30311e::t_ffc8c44c38d508 616,620-621
+  s_d220de8e30311e::t_2f36cc4f041c6e 730
+  s_d220de8e30311e::t_d5969b01516d26 744
+  s_d220de8e30311e::t_618b153f7377d2 334
+  s_d220de8e30311e::t_fde40634941f04 520
+  s_d220de8e30311e::t_27a3ba8ac58f5e 373
+  s_d220de8e30311e::t_8b3eba409f8583 440,445
+  s_d220de8e30311e::t_8ed65ddd67525a 577,579-582,585,591-594
+  s_d220de8e30311e::t_15aa000aaffbf1 272
+  s_d220de8e30311e::t_c1c66628cf952e 878
+  s_d220de8e30311e::t_cd1b885c91a7f9 324
+  s_d220de8e30311e::t_aea9709c3db5b3 419
+  s_d220de8e30311e::t_ef48130706e824 488
+  s_d220de8e30311e::t_317288855879ac 759,769-772,788
+  s_d220de8e30311e::t_739f4e4e9d9331 927
+  s_d220de8e30311e::t_e676453f7b255c 240
+  s_d220de8e30311e::t_558be738753fdf 713
+  s_d220de8e30311e::t_294a8f0f09db91 404
+  s_d220de8e30311e::t_72971f1fc0321b 153
+  s_d220de8e30311e::t_c1e71625933085 645,647
+  s_d220de8e30311e::t_5c0d688a40a59d 501
+  s_d220de8e30311e::t_7df239f279d9e6 825
+  s_d220de8e30311e::t_b33f41e1b2d000 253
+  s_d220de8e30311e::t_6a6730105062dd 110,124
+  s_d220de8e30311e::t_6bbba6e3d8fc1b 77,87
+  s_d220de8e30311e::t_383a7fe61ca523 288
+  s_d220de8e30311e::t_9e99f71ae4a0b1 658,666-668
+  s_d220de8e30311e::t_13f829647ef556 845
+  s_d220de8e30311e::t_a7d118f5917134 360
+  s_d220de8e30311e::t_006717ab78aa30 390
+mobile/app/(auth)/login.tsx
+  s_d220de8e30311e::t_b4dddc4bac4ebc 1-148
+docs/07-corrections-entrega1.md
+  s_d220de8e30311e::t_cddb596c35147b 1-26
+backend/prisma/seed.ts
+  s_d220de8e30311e::t_34a44d169f7a9d 1-262
+mobile/.gitignore
+  s_d220de8e30311e::t_5065f2d04d4d2f 1-8
+mobile/app/(tabs)/items.tsx
+  s_d220de8e30311e::t_72e15c69ef3d88 1-52
+mobile/package.json
+  s_d220de8e30311e::t_3548733da48241 1-27
+mobile/app/(tabs)/notifications.tsx
+  s_d220de8e30311e::t_1b78f95c219615 1-184
+mobile/app/_layout.tsx
+  s_d220de8e30311e::t_665e81f4b8b2bf 1-19
+docs/02-data-model.md
+  s_d220de8e30311e::t_0c7bb0db0cffed 1-239
+docs/04-error-handling.md
+  s_d220de8e30311e::t_c00575578139ce 1-92
+mobile/src/theme/spacing.ts
+  s_d220de8e30311e::t_8959b011ffb430 1-13
+docs/features/F02-payment-methods.md
+  s_d220de8e30311e::t_4dc6c6122c876b 1-125
+mobile/src/components/ScreenContainer.tsx
+  s_d220de8e30311e::t_d43dd22dfda8f3 1-41
+.gitignore
+  s_d220de8e30311e::t_666b271edb5a80 1-33
+backend/src/lib/prisma.ts
+  s_d220de8e30311e::t_47cf1c42a61339 1-22
+docs/features/F04-auction-session-live.md
+  s_d220de8e30311e::t_68b06e88b71aeb 1-192
+mobile/src/components/OfflineBanner.tsx
+  s_d220de8e30311e::t_cb1aad7bff89df 1-45
+mobile/src/components/Loading.tsx
+  s_d220de8e30311e::t_8b7d4cb0a16985 1-27
+docs/README.md
+  s_d220de8e30311e::t_b5320ead16ae0b 1-45
+backend/tsconfig.json
+  s_d220de8e30311e::t_ac9f60cc29f635 1-19
+docs/features/F08-metrics.md
+  s_d220de8e30311e::t_6d4a56fd4c6cad 1-131
+backend/src/app.ts
+  s_d220de8e30311e::t_9e9de031d5af2b 1-63
+mobile/app/(auth)/pending.tsx
+  s_d220de8e30311e::t_f7fccc9725bec6 1-74
+backend/src/modules/health/health.routes.ts
+  s_d220de8e30311e::t_5d17397fcf0959 1-22
+mobile/src/components/Button.tsx
+  s_d220de8e30311e::t_5e131ef7d2d413 1-79
+backend/src/modules/clients/clients.routes.ts
+  s_d220de8e30311e::t_6831bf17512fe4 1-131
+backend/package.json
+  s_d220de8e30311e::t_597f37ba00dceb 1-45
+docs/03-auth-and-roles.md
+  s_d220de8e30311e::t_cef78fb274d3d9 1-130
+mobile/tsconfig.json
+  s_d220de8e30311e::t_5421087061d2e6 1-10
+mobile/babel.config.js
+  s_d220de8e30311e::t_f69e99f228dbfd 1-6
+docs/features/F03-auctions-catalog.md
+  s_d220de8e30311e::t_69a7ddc25e03ec 1-161
+mobile/app/(tabs)/_layout.tsx
+  s_d220de8e30311e::t_406d72e78ab8ac 1-62
+mobile/app/(tabs)/index.tsx
+  s_d220de8e30311e::t_c880bf0f9b731d 1-191
+mobile/app/(tabs)/profile.tsx
+  s_d220de8e30311e::t_af85bbbd52f103 1-202
+docs/features/F09-notifications.md
+  s_d220de8e30311e::t_0eba5c49f95136 1-141
+mobile/app/index.tsx
+  s_d220de8e30311e::t_d78ba8f316038d 1-27
+mobile/src/theme/typography.ts
+  s_d220de8e30311e::t_3e48e2eee4ae0e 1-23
+mobile/app/(auth)/activate.tsx
+  s_d220de8e30311e::t_4191fa040a3f7f 1-166
+backend/src/modules/auth/auth.schema.ts
+  s_d220de8e30311e::t_732813ad6cb507 1-65
+mobile/.env.example
+  s_d220de8e30311e::t_24483524617add 1
+backend/src/config/env.ts
+  s_d220de8e30311e::t_b0b9b1e466804e 1-35
+mobile/app.json
+  s_d220de8e30311e::t_ce25471bfc8d2c 1-43
+backend/src/middleware/error.ts
+  s_d220de8e30311e::t_98b586bea29927 1-61
+mobile/src/api/client.ts
+  s_d220de8e30311e::t_a0231870c49c1f 1-217
+docs/features/F01-auth.md
+  s_d220de8e30311e::t_46017006b40904 1-87
+backend/prisma/schema.prisma
+  s_d220de8e30311e::t_793c330a916ae9 1-427
+docs/features/F11-insurance-payouts.md
+  s_d220de8e30311e::t_e0cf76fe27ef43 1-162
+README.md
+  s_d220de8e30311e::t_9a5853aaf0085d 1,3,5-9,11-94
+docs/decisions/ADR-003-jwt-identity.md
+  s_d220de8e30311e::t_b17cf3ac0ef6b1 1-34
+mobile/app/(auth)/_layout.tsx
+  s_d220de8e30311e::t_efa1341d876aa7 1-18
+backend/src/modules/auth/auth.service.ts
+  s_d220de8e30311e::t_88a9e2317095c3 1-296
+backend/tests/health.test.ts
+  s_d220de8e30311e::t_9df41bdb1e921e 1-54
+docs/features/README.md
+  s_d220de8e30311e::t_f9c680efe965d8 1-74
+backend/src/modules/auth/auth.routes.ts
+  s_d220de8e30311e::t_20df9aa9ef16fb 1-79
+mobile/src/components/Field.tsx
+  s_d220de8e30311e::t_22bd0de4b8e358 1-55
+backend/.gitignore
+  s_d220de8e30311e::t_0c9535db5a31b7 1-7
+mobile/app/auction/[id].tsx
+  s_d220de8e30311e::t_16df757ee7e5ed 1-480
+mobile/README.md
+  s_d220de8e30311e::t_a30f77bc879d26 1-101
+backend/src/lib/errors.ts
+  s_d220de8e30311e::t_185547727f9128 1-107
+mobile/src/theme/colors.ts
+  s_d220de8e30311e::t_74e4a215559da2 1-66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "468452e8086a74a103ffaf0f81ab9ebb99c410b4",
+  "prompts": {},
+  "sessions": {
+    "s_d220de8e30311e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e697ece4-1fc2-448a-a96f-91d404ca676f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "juanimoli <juanignaciomoli@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,116 @@
+mobile/src/lib/inclusionMeta.ts
+  s_d220de8e30311e::t_0d0ee68a87a174 1-29
+mobile/src/lib/money.ts
+  s_d220de8e30311e::t_d939bb74518356 1-27
+mobile/src/theme/index.ts
+  s_d220de8e30311e::t_1c65823887ec6c 11
+mobile/src/components/StatCard.tsx
+  s_d220de8e30311e::t_b5ce2188be320e 1-89
+mobile/app/(tabs)/metrics.tsx
+  s_d220de8e30311e::t_54ae58d4d33603 15
+  s_d220de8e30311e::t_ca9c3f23c431b4 86-87
+  s_d220de8e30311e::t_fb29b0d0769b8b 148
+  s_d220de8e30311e::t_1a64d0405deac0 16-18
+mobile/src/lib/categoryMeta.ts
+  s_d220de8e30311e::t_ef4eb6d75a4d57 1-30
+mobile/app/item/[id].tsx
+  s_d220de8e30311e::t_d2b4a947b13ab1 82-83
+backend/src/lib/constants.ts
+  s_d220de8e30311e::t_0e96d6b791bfcd 1-10
+mobile/app/items/[id]/index.tsx
+  s_d220de8e30311e::t_5760231c131b96 9
+backend/src/modules/items/items.service.ts
+  s_d220de8e30311e::t_c41006f3835e72 89-100
+mobile/app/(tabs)/index.tsx
+  s_d220de8e30311e::t_ad3e7620192fff 378
+  s_d220de8e30311e::t_19e2c3e57d9b31 321
+  s_d220de8e30311e::t_5319b177f98b47 20-21
+  s_d220de8e30311e::t_708a52cb73dcb4 201,203
+  s_d220de8e30311e::t_438f78787cc91a 163-164,167-168
+  s_d220de8e30311e::t_125d35033c144e 1
+  s_d220de8e30311e::t_7f68a76c8ada7c 135,137,139-140
+  s_d220de8e30311e::t_7993fb9455100e 103-106,120,126,133
+  s_d220de8e30311e::t_6918fcacc7ed76 202
+mobile/app/(tabs)/items.tsx
+  s_d220de8e30311e::t_0df083d768da94 9,11
+  s_d220de8e30311e::t_d2608d5ecd901e 50
+  s_d220de8e30311e::t_b6dbc64d904ac5 83
+  s_d220de8e30311e::t_3147456724193e 111-113
+backend/src/config/env.ts
+  s_d220de8e30311e::t_482f117121ea63 36-44
+mobile/src/theme/shadows.ts
+  s_d220de8e30311e::t_290ba8a00826c9 1-29
+backend/src/modules/inclusion-requests/inclusion-requests.controller.ts
+  s_d220de8e30311e::t_46b9e9e485dabc 30-32
+mobile/app/(tabs)/notifications.tsx
+  s_d220de8e30311e::t_4eaacde0d7e460 16
+  s_d220de8e30311e::t_455419d5113d0a 208
+backend/prisma/schema.prisma
+  s_d220de8e30311e::t_a1729ecff6cb82 220-221
+  s_d220de8e30311e::t_1c028a7cddaf83 305-307
+  s_d220de8e30311e::t_aeda35a09709d2 408-411
+  s_d220de8e30311e::t_9783e7296c34a9 345-346
+  s_d220de8e30311e::t_5d89ae4adc0010 135-136
+  s_d220de8e30311e::t_6d13bf73fdafad 173-175
+  s_d220de8e30311e::t_7b62b3a4fa5100 291
+  s_d220de8e30311e::t_b4ea82a48fa28f 325-330
+  s_d220de8e30311e::t_b50dbc1f4af62b 268-270
+  s_d220de8e30311e::t_018c00fd7162ea 374-375
+  s_d220de8e30311e::t_061a9ca2494f26 430-432
+  s_d220de8e30311e::t_ea5c5d8bcedb28 449-451
+backend/src/modules/sale-records/sale-records.service.ts
+  s_d220de8e30311e::t_d408f4c7f18267 170-175
+  s_d220de8e30311e::t_2f164264b9964c 240,242-245,247-251,254-260,265,268
+  s_d220de8e30311e::t_568e32a7e381e1 5,8-9
+  s_d220de8e30311e::t_24970531c5f5ae 223-226
+backend/src/lib/jwt.ts
+  s_d220de8e30311e::t_5d07249208c286 8,10-14,17,30,35,39-51,54-56,59-67
+  s_d220de8e30311e::t_e55e196cea8e30 15-16
+backend/prisma/migrations/20260608184236_add_performance_indexes/migration.sql
+  s_d220de8e30311e::t_f6d0c08d304020 1-68
+backend/src/middleware/owner.ts
+  s_d220de8e30311e::t_e18070796c5772 30-39,42,50
+mobile/app/(tabs)/mis-pujas.tsx
+  s_d220de8e30311e::t_0782c3dc8879d8 18
+mobile/app/(tabs)/profile.tsx
+  s_d220de8e30311e::t_e025225cc1f8de 8
+  s_d220de8e30311e::t_222e8a86d4e9fe 11-12
+  s_d220de8e30311e::t_cd3805ab730ca4 71-73
+backend/src/modules/items/items.controller.ts
+  s_d220de8e30311e::t_9f45b5849c47dd 94
+  s_d220de8e30311e::t_1cb913d13ec4cc 129
+  s_d220de8e30311e::t_b43f7a07c7d46d 46
+  s_d220de8e30311e::t_6010e0d6169607 21-27,29
+  s_d220de8e30311e::t_29ec97b6ed0f93 78
+backend/src/modules/clients/clients.service.ts
+  s_d220de8e30311e::t_3ef521663ccc66 69-73
+  s_d220de8e30311e::t_f857e2dfc2c770 105-109
+  s_d220de8e30311e::t_dbb9f9a03b04df 127-130
+backend/src/modules/auctions/auctions.service.ts
+  s_d220de8e30311e::t_d55f81674023bc 829-874,880-881,883-885,909-910,912-918,920-924
+  s_d220de8e30311e::t_33e350c1c43107 261-271
+backend/src/modules/auctions/auctions.controller.ts
+  s_d220de8e30311e::t_66bea0e2051309 90,106
+  s_d220de8e30311e::t_691d120e7301b2 231,248
+  s_d220de8e30311e::t_44a0d82d926265 40,122,143,163,179,196,213,230,247,264
+mobile/app/(tabs)/subastas.tsx
+  s_d220de8e30311e::t_1ce5f3371ea873 20-21
+mobile/app/catalog/[category].tsx
+  s_d220de8e30311e::t_be33f489fd2b86 19-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "b1b5909242af6bc56155c0bd4a2e1f43ef4199d9",
+  "prompts": {},
+  "sessions": {
+    "s_d220de8e30311e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e697ece4-1fc2-448a-a96f-91d404ca676f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "juanimoli <juanignaciomoli@gmail.com>"
+    }
+  }
+}

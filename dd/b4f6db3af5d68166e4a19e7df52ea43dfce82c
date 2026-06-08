@@ -1,0 +1,24 @@
+mobile/package.json
+  s_d220de8e30311e::t_0a82f11c067208 16-21
+.pre-commit-config.yaml
+  s_d220de8e30311e::t_5c57313892b725 1-17
+mobile/app.json
+  s_d220de8e30311e::t_0cb100a25b284c 8,11
+  s_d220de8e30311e::t_0a82f11c067208 32-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "ddb4f6db3af5d68166e4a19e7df52ea43dfce82c",
+  "prompts": {},
+  "sessions": {
+    "s_d220de8e30311e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e697ece4-1fc2-448a-a96f-91d404ca676f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "juanimoli <juanignaciomoli@gmail.com>"
+    }
+  }
+}

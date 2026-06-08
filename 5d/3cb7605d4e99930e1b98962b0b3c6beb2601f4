@@ -1,0 +1,26 @@
+mobile/src/auth/AuthContext.tsx
+  s_d220de8e30311e::t_c0302fbc0b34eb 3
+  s_d220de8e30311e::t_3ff3b27686fff5 71
+  s_d220de8e30311e::t_b7be3e790e2b27 94
+  s_d220de8e30311e::t_d4449979c254b2 80
+mobile/src/lib/storage.ts
+  s_d220de8e30311e::t_001632f6047913 1-46
+mobile/package.json
+  s_d220de8e30311e::t_00ff164f48bd60 15,24,27-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "5d3cb7605d4e99930e1b98962b0b3c6beb2601f4",
+  "prompts": {},
+  "sessions": {
+    "s_d220de8e30311e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e697ece4-1fc2-448a-a96f-91d404ca676f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "juanimoli <juanignaciomoli@gmail.com>"
+    }
+  }
+}

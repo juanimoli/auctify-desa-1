@@ -1,0 +1,66 @@
+backend/src/modules/penalties/penalties.schema.ts
+  s_d220de8e30311e::t_a1c4afbd8397a5 1-35
+mobile/app/(tabs)/profile.tsx
+  s_d220de8e30311e::t_b707985d966436 69,74-78
+backend/src/modules/auctions/auctions.controller.ts
+  s_d220de8e30311e::t_75ae6ca8cb0718 1-155
+backend/src/modules/penalties/penalties.controller.ts
+  s_d220de8e30311e::t_d828c43be457d0 1-104
+backend/src/modules/auctions/auctions.schema.ts
+  s_d220de8e30311e::t_eee90dcf2fb009 1-50
+mobile/app/penalties.tsx
+  s_d220de8e30311e::t_360517d728ef42 156-160
+  s_d220de8e30311e::t_10da2877c04741 1-155,161-367
+backend/src/modules/penalties/penalties.service.ts
+  s_d220de8e30311e::t_708db1e201fb85 1-149
+backend/src/modules/auctions/auctions.service.ts
+  s_d220de8e30311e::t_fb4b96fc653554 1-496
+backend/src/modules/items/items.schema.ts
+  s_d220de8e30311e::t_835079e779bfea 1-69
+backend/src/modules/items/items.service.ts
+  s_d220de8e30311e::t_96607f51130d88 1-404
+backend/src/modules/paymentMethods/paymentMethods.routes.ts
+  s_d220de8e30311e::t_12aeb070dac262 1-63
+mobile/app/auction/[id].tsx
+  s_d220de8e30311e::t_bff558763dd449 1,9-10,23-30,32,34-42,44,51-55,57-61,66-71,74,76,78,81,83-84,88-179,181-198,200,202,208,224,228-229,234-239,252-255,257-261,266-268,271-273,284-286,293-304,307-319,322-327,331-337,340-345,350,362,366,372,377,392,394-399,403-406,409,412-413,415-417,436-437,441,443-444,448,450-451,459-463,466,469-481,483-518,521,523,526,530-531,534,537-540,546-548,553-584,593,618-624,636,645-649,688,704-705,724-728,740-741,753-754,760-765,768,777,779,781-787,789-792,794,797-803,805-822,825-826,832-833
+backend/src/modules/penalties/penalties.routes.ts
+  s_d220de8e30311e::t_82dc565f036f71 1-63
+backend/src/modules/paymentMethods/paymentMethods.schema.ts
+  s_d220de8e30311e::t_916e8fcc6b6ba3 1-82
+backend/src/modules/paymentMethods/paymentMethods.service.ts
+  s_d220de8e30311e::t_ab3db13f888124 1-96
+backend/src/modules/paymentMethods/paymentMethods.controller.ts
+  s_d220de8e30311e::t_d7abe67696ca03 1-76
+backend/src/modules/items/items.routes.ts
+  s_d220de8e30311e::t_dfd171abff4a45 1-51
+backend/src/modules/auctions/auctions.routes.ts
+  s_d220de8e30311e::t_77bb297e2e4965 1-105
+mobile/app/payment-methods.tsx
+  s_d220de8e30311e::t_a3ca8b5a73270c 1-707
+mobile/src/auth/AuthContext.tsx
+  s_d220de8e30311e::t_4e8f8365027126 162
+backend/src/routes/index.ts
+  s_d220de8e30311e::t_bf117019c88d89 37-38
+  s_d220de8e30311e::t_8c4cbd0580f9a5 16-19
+  s_d220de8e30311e::t_42706f4b785d0f 40-42
+  s_d220de8e30311e::t_c9d6bebf0f8a98 45-46
+  s_d220de8e30311e::t_1086a4398ad9be 76-78
+backend/src/modules/items/items.controller.ts
+  s_d220de8e30311e::t_59d3a4123099fd 1-111
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "fd36d6e65a67d4dc621522e72a30e6b2e058cc12",
+  "prompts": {},
+  "sessions": {
+    "s_d220de8e30311e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e697ece4-1fc2-448a-a96f-91d404ca676f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "juanimoli <juanignaciomoli@gmail.com>"
+    }
+  }
+}

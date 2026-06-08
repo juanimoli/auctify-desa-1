@@ -1,0 +1,25 @@
+mobile/app/items/new.tsx
+  s_d220de8e30311e::t_36be12f23814eb 2
+mobile/app/insurance/[policyNumber].tsx
+  s_d220de8e30311e::t_457bdfa12b4f2f 2-3
+mobile/app/auction-detail/[id].tsx
+  s_d220de8e30311e::t_c99eddaeb0169a 2
+mobile/app/payout-accounts/[ownerId].tsx
+  s_d220de8e30311e::t_24e0b5b1b1a7dc 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "bdbb54dd95c6cb432aba8a6e0cc3849ade7af0d3",
+  "prompts": {},
+  "sessions": {
+    "s_d220de8e30311e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e697ece4-1fc2-448a-a96f-91d404ca676f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "juanimoli <juanignaciomoli@gmail.com>"
+    }
+  }
+}

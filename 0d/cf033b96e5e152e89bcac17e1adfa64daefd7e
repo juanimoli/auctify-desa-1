@@ -1,0 +1,23 @@
+backend/src/modules/auctions/auctions.service.ts
+  s_d220de8e30311e::t_350928367ed1e9 315-320
+mobile/app/_layout.tsx
+  s_d220de8e30311e::t_2fba5a476e7bbc 14-25
+  s_d220de8e30311e::t_bcff71a51eb7d9 44
+  s_d220de8e30311e::t_136da6f4028a67 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "0dcf033b96e5e152e89bcac17e1adfa64daefd7e",
+  "prompts": {},
+  "sessions": {
+    "s_d220de8e30311e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e697ece4-1fc2-448a-a96f-91d404ca676f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "juanimoli <juanignaciomoli@gmail.com>"
+    }
+  }
+}

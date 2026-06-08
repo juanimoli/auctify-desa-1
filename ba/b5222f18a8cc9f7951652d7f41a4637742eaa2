@@ -1,0 +1,55 @@
+backend/src/modules/auctions/auctions.service.ts
+  s_d220de8e30311e::t_a1e8f61be539dc 256
+  s_d220de8e30311e::t_978c524f0d7e39 707-735,737-740,743-745,748-754,756-759,761
+  s_d220de8e30311e::t_08efc9eb2060f1 187-255,257-267,269-283
+  s_d220de8e30311e::t_1887ee2903fe89 268
+  s_d220de8e30311e::t_9f429b63d9e493 694-704
+backend/src/lib/errors.ts
+  s_d220de8e30311e::t_8803e8a59c2c17 26
+backend/src/modules/sale-records/sale-records.service.ts
+  s_d220de8e30311e::t_249a7ba62b1b00 123-137,146-148,152
+  s_d220de8e30311e::t_deb68bc6db1788 197
+  s_d220de8e30311e::t_1cbf3d9670abc9 160-163,184-191,211-214
+  s_d220de8e30311e::t_7f798ae18ac188 4
+backend/prisma/migrations/20260608114544_gaps/migration.sql
+  s_d220de8e30311e::t_d89af271a05c33 1-34
+backend/src/modules/clients/clients.service.ts
+  s_d220de8e30311e::t_765cb9f3c86be9 8
+  s_d220de8e30311e::t_a3e7ed31c12225 42-124
+backend/src/modules/auctions/auctions.controller.ts
+  s_d220de8e30311e::t_bbdb45a49564ae 63-81
+backend/prisma/schema.prisma
+  s_d220de8e30311e::t_b78eaa56c66742 395-396
+  s_d220de8e30311e::t_ec9d61c953e677 360-361,365,368-369,372-373,379-383
+backend/src/modules/auctions/auctions.routes.ts
+  s_d220de8e30311e::t_78addf9047155f 50-71
+  s_d220de8e30311e::t_cd2a8ff7f85d8d 8
+  s_d220de8e30311e::t_cd1608d98ff466 34
+backend/src/modules/auctions/auctions.schema.ts
+  s_d220de8e30311e::t_3687d04335d574 96-106
+backend/src/modules/items/items.service.ts
+  s_d220de8e30311e::t_c02353ed3d20a0 246
+  s_d220de8e30311e::t_f70dbcbc42eda7 315-323
+backend/src/modules/penalties/penalties.service.ts
+  s_d220de8e30311e::t_969700bd320248 90
+  s_d220de8e30311e::t_d3bde21fa0777c 28-33,42
+backend/src/modules/paymentMethods/paymentMethods.service.ts
+  s_d220de8e30311e::t_10aebfe5c9ee0a 14
+  s_d220de8e30311e::t_8628eee5e9cacc 89,97-104
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "bab5222f18a8cc9f7951652d7f41a4637742eaa2",
+  "prompts": {},
+  "sessions": {
+    "s_d220de8e30311e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e697ece4-1fc2-448a-a96f-91d404ca676f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "juanimoli <juanignaciomoli@gmail.com>"
+    }
+  }
+}

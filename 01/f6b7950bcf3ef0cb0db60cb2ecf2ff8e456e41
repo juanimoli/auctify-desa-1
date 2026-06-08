@@ -1,0 +1,25 @@
+mobile/app/auction/[id].tsx
+  s_d220de8e30311e::t_d6315688bdf24b 49
+  s_d220de8e30311e::t_69540730e718fc 149-155,167
+mobile/app/index.tsx
+  s_d220de8e30311e::t_765bcb5c0916a0 1,6-10,15,17
+mobile/app/_layout.tsx
+  s_d220de8e30311e::t_19e0e16907768a 32
+  s_d220de8e30311e::t_f9bb541517d1dd 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "01f6b7950bcf3ef0cb0db60cb2ecf2ff8e456e41",
+  "prompts": {},
+  "sessions": {
+    "s_d220de8e30311e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e697ece4-1fc2-448a-a96f-91d404ca676f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "juanimoli <juanignaciomoli@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+docs/features/asignacion.md
+  s_d220de8e30311e::t_e899d40f0522d1 1-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "20b9e16e35d25e3b3740f1c97fd8a17692ab6018",
+  "prompts": {},
+  "sessions": {
+    "s_d220de8e30311e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e697ece4-1fc2-448a-a96f-91d404ca676f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "juanimoli <juanignaciomoli@gmail.com>"
+    }
+  }
+}

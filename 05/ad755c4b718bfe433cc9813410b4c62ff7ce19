@@ -1,0 +1,77 @@
+backend/src/modules/clients/clients.routes.ts
+  s_d220de8e30311e::t_92e27be11d5480 5-7,13,17,19,38-78,84,137-144
+backend/prisma/seed.ts
+  s_d220de8e30311e::t_1c0d53894d3116 36-48
+backend/src/modules/owners/owners.routes.ts
+  s_d220de8e30311e::t_abd11afdb80e2e 1-11,15-17,39-56
+backend/src/modules/penalties/penalties.service.ts
+  s_d220de8e30311e::t_edd9ce2ed911db 27,29,45,47-57
+  s_d220de8e30311e::t_7dfb445f8671ac 12
+backend/src/modules/products/products.controller.ts
+  s_d220de8e30311e::t_360a1096cdc05a 63,65,68-72,75,82-122
+backend/src/modules/clients/clients.service.ts
+  s_d220de8e30311e::t_105923edb129ac 1-59
+backend/src/modules/notifications/notifications.service.ts
+  s_d220de8e30311e::t_eb2a1f83bfbe7e 40-41,48
+backend/src/modules/countries/countries.controller.ts
+  s_d220de8e30311e::t_ecdaaebb2dbc4b 1-21
+backend/src/modules/auctions/auctions.controller.ts
+  s_d220de8e30311e::t_b5d2eea477ee15 202-251
+backend/src/modules/products/products.service.ts
+  s_d220de8e30311e::t_94be93d22375b9 72-142
+backend/src/modules/auctions/auctions.schema.ts
+  s_d220de8e30311e::t_83aff9d4eb87c5 88-95
+backend/src/modules/auctions/auctions.routes.ts
+  s_d220de8e30311e::t_e6446294d6b0ab 5-18,20
+  s_d220de8e30311e::t_c96c741d6feaab 124-191
+  s_d220de8e30311e::t_02e45296609ffb 32
+backend/src/modules/products/products.routes.ts
+  s_d220de8e30311e::t_299a5cf583abc0 18,21,88-93
+  s_d220de8e30311e::t_f10273042de57b 9-10,55,73-75,87
+backend/src/modules/countries/countries.routes.ts
+  s_d220de8e30311e::t_3968786bc3253a 1-16
+backend/src/modules/sale-records/sale-records.service.ts
+  s_d220de8e30311e::t_6dc0bd9feb3994 220-226
+  s_d220de8e30311e::t_5580dd1222598b 168-170
+  s_d220de8e30311e::t_de0bb77fc57048 3
+backend/src/modules/products/products.schema.ts
+  s_d220de8e30311e::t_a7a42aa8782b61 30-47
+backend/src/modules/owners/owners.service.ts
+  s_d220de8e30311e::t_01876a8870a606 1-62
+backend/src/modules/clients/clients.controller.ts
+  s_d220de8e30311e::t_31169adfb4af2e 1-51
+backend/src/modules/countries/countries.service.ts
+  s_d220de8e30311e::t_774e44c08621a8 1-13
+mobile/app/auction/[id].tsx
+  s_d220de8e30311e::t_c50efacad005ac 1102-1217
+  s_d220de8e30311e::t_09050c2a06a06e 689-803
+  s_d220de8e30311e::t_bd9cdff42ac6b4 90-98
+  s_d220de8e30311e::t_d4c0217239da31 341-447
+  s_d220de8e30311e::t_be551dc6367265 23-46
+backend/src/modules/owners/owners.controller.ts
+  s_d220de8e30311e::t_0b65ca11ea38b2 1-59
+backend/src/modules/owners/owners.schema.ts
+  s_d220de8e30311e::t_e22b9f51cd6ceb 1-21
+backend/src/routes/index.ts
+  s_d220de8e30311e::t_33500305233a6f 39-41
+  s_d220de8e30311e::t_9f9e1fc802b98f 26
+backend/src/modules/auctions/auctions.service.ts
+  s_d220de8e30311e::t_799b618d726e19 10
+  s_d220de8e30311e::t_ace8db0859d2f8 422-652
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "05ad755c4b718bfe433cc9813410b4c62ff7ce19",
+  "prompts": {},
+  "sessions": {
+    "s_d220de8e30311e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e697ece4-1fc2-448a-a96f-91d404ca676f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "juanimoli <juanignaciomoli@gmail.com>"
+    }
+  }
+}
